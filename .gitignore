@@ -30,4 +30,4 @@ local.meta
 *.log
 
 # UCC Framework output file
-# output/
+output/
